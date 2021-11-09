@@ -1,4 +1,4 @@
-# router-optics
+# yield-router
 Yield aggregator on top of Optics
 
 
